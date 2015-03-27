@@ -1,0 +1,18 @@
+S. Barclay
+BIFS 617
+Week 6 Conference 2
+
+>seq1.txt
+
+ATTTTCCCGA
+ ATTCCGCGCT
+
+||
+
+>seq2.txt
+
+GGGGTGCACCGCC
+ TTACCTCGCGCAA
+
+||
+
